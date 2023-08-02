@@ -24,7 +24,7 @@ Due to the current limitations of the GPT-3.5-turbo-16k model, it's not possible
 To implement the Event Log Analyzer, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary Python packages using pip: pip install openai, pip install openai, pip install requests
+2. Install the necessary Python packages (check the provided `requirements.txt` file in each application's directory).
 3. Replace `'Insert your OpenAi Key'`, `'App Client Id'`, `'App Client Secret'`, and `'Tenant Id'` in the code with your actual OpenAI key, App Client ID, App Client Secret, and Tenant ID respectively.
 4. Run the Streamlit application: stremlit run app.py
 5. Open your web browser and navigate to `localhost:8501` to view the application.

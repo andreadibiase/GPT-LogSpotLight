@@ -14,7 +14,7 @@ The inaugural application under this suite is LogSpectra-SecurityEvents. This Py
 
 ## Getting Started
 
-To utilize an application within the GPT-LogSpotLight suite, please refer to the ReadMe.md file within each application's directory for specific instructions. The applications are built on Python and require various libraries that can be installed via pip from the provided `requirements.txt` file in each application's directory.
+To utilize an application within the GPT-LogSpotLight suite, please refer to the ReadMe.md file within each application's directory for specific instructions. The applications are built on Python and require various libraries (check the provided `requirements.txt` file in each application's directory).
 
 ## Future Developments
 
